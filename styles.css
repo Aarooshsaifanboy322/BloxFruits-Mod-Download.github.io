@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.top-bar_download {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.3),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 40px;
+    width: 1000;
+    border: transparent;
+    overflow: hidden;
+    border-radius: 8px;
+}
+.macOSiOS {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.4),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 7px;
+    overflow: hidden;
+    border: none;
+    width: 187px;
+}
+.windows {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.4),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 7px;
+    overflow: hidden;
+    border: none;
+    width: 187px;
+}
+.linux {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.4),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 7px;
+    overflow: hidden;
+    border: none;
+    width: 187px;
+}
